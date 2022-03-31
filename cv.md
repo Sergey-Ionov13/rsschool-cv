@@ -1,24 +1,23 @@
-## Sergey Ionov
-***
+# Sergey Ionov
 ## Contacts:
-* Phone: +375 (29) 263-53-69
-* Email: ipionov13@gmail.com
-* Discord: Serge_I (@Sergey-Ionov13)
-* GitHub: [Sergey-Ionov13](https://github.com/Sergey-Ionov13)
-* CodePen: [Sergey13](https://codepen.io/Sergey13/pens/public)
-***
+* **Phone**: +375 (29) 263-53-69
+* **Email**: ipionov13@gmail.com
+* **Discord**: Serge_I (@Sergey-Ionov13)
+* **GitHub**: [Sergey-Ionov13](https://github.com/Sergey-Ionov13)
+* **CodePen**: [Sergey13](https://codepen.io/Sergey13/pens/public)
+
 ## About me:
 I am 38 years old and work as an engineer in the construction industry. My next goal is to get my first job as a front-end developer so I can concentrate fully on development in this area. My hallmarks are: perseverance, meticulousness and accuracy.
-***
+
 ## Skills:
 * HTML
 * CSS
 * Bootstrap
 * JavaScript Basics
 * Git
-***
+
 ## Code example:
-Large Factorials from CODEWARS: write a function that takes an integer n and returns the value of n!.
+Large Factorials from CODEWARS: write a **function** that takes an integer **n** and returns the value of **n!**.
 ```
 function factorial(n){
   if (n === 1) return '1';
@@ -57,15 +56,16 @@ function factorial(n){
   }
 }
 ```
-***
+
 ## Experience:
 Nothing yet…
-***
+
 ## Education
 * HTML Academy
 * FreeCodeCamp
 * learn.javascript.ru
 * MDN (developer.mozilla)
 * YouTube course "React JS - путь самурая 1.0"
+
 ## English
 A1
